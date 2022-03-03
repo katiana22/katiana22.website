@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a third-year PhD student in civil and systems engineering at [Johns Hopkins University](https://www.jhu.edu/), where I am advised by [Michael D. Shields](https://engineering.jhu.edu/case/faculty/michael-d-shields/). My research is centered around scientific machine learning with a main focus on manifold learning and surrogate modeling for predictive analysis and uncertainty quantification in high-dimensional physics-based stochastic systems. My research is funded by the U.S. [Department of Energy](https://www.energy.gov/) (DOE). 
+I am a third-year PhD student in civil and systems engineering at [Johns Hopkins University](https://www.jhu.edu/), where I am advised by [Michael D. Shields](https://engineering.jhu.edu/case/faculty/michael-d-shields/). My research is centered around scientific machine learning with a main focus on manifold learning and surrogate modeling for predictive analysis and uncertainty quantification in high-dimensional physics-based stochastic systems. My research is generously supported by the U.S. [Department of Energy](https://www.energy.gov/) (DOE). 
 
 Before coming to JHU, I graduated from the [National Technical University of Athens](https://www.ntua.gr/en/) with a M.Sc. in applied mechanics. For my master thesis I focused on nonlinear dynamics and bifurcation theory with application on the differentiation mechanisms of mesenchymal stem cells (MSCs). I have also graduated with a diploma (5-year program) in civil engineering with a focus on structural engineering and numerical analysis from the [University of Thessaly](https://www.uth.gr/) in Greece.
 
