@@ -9,13 +9,13 @@ category: fun
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/greece/img1.jpg" title="Sifnos church" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/greece/img1.jpg" title="Sifnos church" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/greece/img2.jpg" title="Sifnos view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/greece/img2.jpg" title="Sifnos view" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/greece/img3.jpg" title="Sifnos cat" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/greece/img3.jpg" title="Sifnos cat" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -23,7 +23,7 @@ category: fun
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/greece/img4.jpg" title="flowers" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/greece/img4.jpg" title="flowers" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -33,10 +33,10 @@ category: fun
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/greece/img7.jpg" title="Voidomatis river" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/greece/img7.jpg" title="Voidomatis river" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/greece/img8.jpg" title="Aristi Zagorohoria" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/greece/img8.jpg" title="Aristi Zagorohoria" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
