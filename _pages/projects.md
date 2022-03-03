@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Here is a small collection of some cool projects.
+description: A small collection of some cool projects and a gallery of photos from places I have traveled.
 nav: true
 display_categories: [work, fun]
 horizontal: false
