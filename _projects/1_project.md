@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: High-dimensional UQ
+title: Manifold-based surrogates
+description: Brief project overview
 img: assets/img/12.jpg
 importance: 1
 category: work
