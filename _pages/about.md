@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>401 Latrobe</p>
+    <p>401 Latrobe Hall</p>
     <p>3400 N Charles St</p>
     <p>Baltimore, MD 21218</p>
 
