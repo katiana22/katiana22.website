@@ -2,3 +2,10 @@
   - firstname: ["Michael", "M.", "M. S.", "Michael Shields"]
     url: https://scholar.google.com/citations?user=hc85Ll0AAAAJ&hl=en
 
+"Giovanis":
+  - firstname: ["Dimitrios", "D.", "D. G.", "Dimitrios Giovanis"]
+    url: https://scholar.google.gr/citations?user=dnFLyp4AAAAJ&hl=en
+    
+"Loukrezis":
+  - firstname: ["Dimitrios", "D.", "D. L.", "Dimitrios Loukrezis"]
+    url: https://scholar.google.de/citations?user=bv1WDkoAAAAJ&hl=en
