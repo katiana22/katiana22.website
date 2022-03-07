@@ -10,6 +10,7 @@ category: work
 * [Objective](#objective)
 * [Method](#method)
 * [Results](#results)
+* [Info](#info)
 * [Code](#code)
 
 ### Objective
@@ -71,8 +72,11 @@ The proposed method is employed to study plasticity in a **Cu/Zr metallic glass*
     Comparison of the stress-strain curve between the atomistic reference (MD) and the optimized PDE model (continuum).
 </div>
 
-This work is published in [_Acta Materialia_](https://www.sciencedirect.com/science/article/pii/S1359645421003888?dgcid=coauthor).     
-Co-authors: [Darius Alix-Williams](https://github.com/dalixwill), [Nicholas M. Boffi](https://nmboffi.github.io/), [Michael L. Falk](https://engineering.jhu.edu/faculty/michael-falk/), [Chris H. Rycroft](https://people.seas.harvard.edu/~chr/), [Michael D. Shields](https://engineering.jhu.edu/faculty/michael-shields/).
+### Info
+Journal publication: [_Acta Materialia_](https://www.sciencedirect.com/science/article/pii/S1359645421003888?dgcid=coauthor).  
+Co-authors: [Darius Alix-Williams](https://github.com/dalixwill), [Nicholas M. Boffi](https://nmboffi.github.io/), [Michael L. Falk](https://engineering.jhu.edu/faculty/michael-falk/), [Chris H. Rycroft](https://people.seas.harvard.edu/~chr/), [Michael D. Shields](https://engineering.jhu.edu/faculty/michael-shields/).    
+MD simulations were conducted using computational resources at the [Maryland Advanced Research Computing Center (MARCC)](https://www.marcc.jhu.edu/).  
+This project has been supported by the [U.S. Department of Energy (DOE)](https://www.energy.gov/) and the [National Science Foundation (NSF)](https://nsf.gov/).
 
 
 ### Code  
