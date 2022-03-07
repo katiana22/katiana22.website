@@ -42,7 +42,7 @@ This work is published in [_Acta Materialia_](https://www.sciencedirect.com/scie
 The proposed method is employed to study plasticity in a **Cu/Zr metallic glass** system. Below we observe the optimized continuum response compared to the reference atomistic. A very good match is achieved for the evolution of all quantities of interest, i.e., the effective temperature fields (left), shear strain fields (right) and stress-strain curve (below). In each plot, left columns represent the MD response and right columns the optimized PDE response.
 
 <p align="center">
-  <img src="/assets/img/research/eff-temp-application.jpg" width="250"/>  <img src="/assets/img/research/shear-strain-application.jpg" width="250"/> 
+  <img src="/assets/img/research/eff-temp-application.jpg" width="250" />  <img src="/assets/img/research/shear-strain-application.jpg" width="250"/> 
 </p>
   
 <p align="center">
