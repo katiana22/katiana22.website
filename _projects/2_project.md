@@ -47,7 +47,7 @@ Given a set of training data, we perform **Gaussian process regression** (Krigin
 
 
 ### Results
-The proposed method is employed to study plasticity in a **Cu/Zr metallic glass** system. Below we observe the optimized continuum response compared to the reference atomistic. A very good match is achieved for the evolution of all quantities of interest, i.e., the effective temperature fields (left), shear strain fields (right) and stress-strain curve (below). In each plot, left columns represent the MD response and right columns the optimized PDE response.
+The proposed method is employed to study plasticity in a **Cu/Zr metallic glass** system. Below we observe the optimized continuum response compared to the reference atomistic. A very good match is achieved for the evolution of all quantities of interest, i.e., the effective temperature fields, shear strain fields  and stress-strain curve.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
