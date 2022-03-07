@@ -7,6 +7,11 @@ importance: 1
 category: work
 ---
 
+* [Objective](#objective)
+* [Method](#method)
+* [Results](#results)
+* [Code](#code)
+
 ## Objective
 Physical phenomena often occur over a wide range of length and time scales. The process of transferring information from low to high scales is known as **upscaling**. 
 In this work, we introduce a framework for **probabilistically parametrizing upper-scale models**, in the form of non-linear PDEs based on data generated from lower-scale simulations (e.g., molecular dynamics). 
@@ -25,8 +30,6 @@ High-dimensional fields in the form of generalized tensors are projected onto a 
 
 Given a set of training data, we perform **Gaussian process regression** (Kriging) to construct a surrogate model between the input stochastic parameters and manifold distances. Finally, we employ **efficient gloabal optimization** (EGO) to identify a set of model parameters capable of generating a response whose distance from the lower-scale reference is minimized. 
 
-We demonstrate the proposed methodology to study plasticity in a **Cu/Zr metallic glass** system. 
-
 Below, a graphical summary of the method is provided.
 
 <p align="center">
@@ -34,5 +37,13 @@ Below, a graphical summary of the method is provided.
 </p>
 
 This work is published in [_Acta Materialia_](https://www.sciencedirect.com/science/article/pii/S1359645421003888?dgcid=coauthor).   
+
+## Results
+The proposed method is employed to study plasticity in a **Cu/Zr metallic glass** system. Below we observe the optimized continuum response compared to the reference atomistic. A very good match is achieved for all quantities of interest, i.e., the effective temperature, shear strain and stress-strain curve.
+
+
+
+
+## Code  
 Code link: [https://github.com/katiana22/GrassmannianEGO](https://github.com/katiana22/GrassmannianEGO).
 
