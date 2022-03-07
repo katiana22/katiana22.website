@@ -72,8 +72,10 @@ The proposed method is employed to study plasticity in a **Cu/Zr metallic glass*
 </div>
 
 ### Info
-
-|  **Journal publication** |  **Co-authors** | **HPCC**  | **Funding**  |  **Codes** |
-|---|---|---|---|---|
-| [Acta Materialia](https://www.sciencedirect.com/science/article/pii/S1359645421003888?dgcid=coauthor)  | [Darius Alix-Williams](https://github.com/dalixwill), [Nicholas M. Boffi](https://nmboffi.github.io/), [Michael L. Falk](https://engineering.jhu.edu/faculty/michael-falk/), [Chris H. Rycroft](https://people.seas.harvard.edu/~chr/), [Michael D. Shields](https://engineering.jhu.edu/faculty/michael-shields/)  | MD simulations were conducted using computational resources at the [Maryland Advanced Research Computing Center (MARCC)](https://www.marcc.jhu.edu/) | This project has been supported by the [U.S. Department of Energy (DOE)](https://www.energy.gov/) and the [National Science Foundation (NSF)](https://nsf.gov/)  |   [Github repo](https://github.com/katiana22/GrassmannianEGO) |
  
+:paperclip: **Journal publication**: [Acta Materialia](https://www.sciencedirect.com/science/article/pii/S1359645421003888?dgcid=coauthor)   
+:computer: **HPCC**: MD simulations were conducted using computational resources at the [Maryland Advanced Research Computing Center (MARCC)](https://www.marcc.jhu.edu/)  
+:raised_hands: **Co-authors**: [Darius Alix-Williams](https://github.com/dalixwill), [Nicholas M. Boffi](https://nmboffi.github.io/), [Michael L. Falk](https://engineering.jhu.edu/faculty/michael-falk/), [Chris H. Rycroft](https://people.seas.harvard.edu/~chr/), [Michael D. Shields](https://engineering.jhu.edu/faculty/michael-shields/)   
+:microscope: **Funding**: This project has been supported by the [U.S. Department of Energy (DOE)](https://www.energy.gov/)    
+:point_right: **Codes**: [Github repo](https://github.com/katiana22/GrassmannianEGO)
+
