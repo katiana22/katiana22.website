@@ -36,7 +36,6 @@ Below, a graphical summary of the method is provided.
   <img src="/assets/img/research/Graphical-illustration.jpg" alt="method" style="width:800px;"/>
 </p>
 
-This work is published in [_Acta Materialia_](https://www.sciencedirect.com/science/article/pii/S1359645421003888?dgcid=coauthor).   
 
 ## Results
 The proposed method is employed to study plasticity in a **Cu/Zr metallic glass** system. Below we observe the optimized continuum response compared to the reference atomistic. A very good match is achieved for the evolution of all quantities of interest, i.e., the effective temperature fields (left), shear strain fields (right) and stress-strain curve (below). In each plot, left columns represent the MD response and right columns the optimized PDE response.
@@ -48,6 +47,9 @@ The proposed method is employed to study plasticity in a **Cu/Zr metallic glass*
 <p align="center">
   <img src="/assets/img/research/stress--strain-application.jpg" alt="stress-strain curve" width="500"/>
 </p>  
+
+This work is published in [_Acta Materialia_](https://www.sciencedirect.com/science/article/pii/S1359645421003888?dgcid=coauthor).     
+Co-authors: [Darius Alix-Williams](https://github.com/dalixwill), [Nicholas M. Boffi](https://nmboffi.github.io/), [Michael L. Falk](https://engineering.jhu.edu/faculty/michael-falk/), [Chris H. Rycroft](https://people.seas.harvard.edu/~chr/), [Michael D. Shields](https://engineering.jhu.edu/faculty/michael-shields/).
 
 ## Code  
 Code link: [https://github.com/katiana22/GrassmannianEGO](https://github.com/katiana22/GrassmannianEGO).
