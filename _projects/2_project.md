@@ -11,7 +11,6 @@ category: work
 * [Method](#method)
 * [Results](#results)
 * [Info](#info)
-* [Code](#code)
 
 ### Objective
 Physical phenomena often occur over a wide range of length and time scales. The process of transferring information from low to high scales is known as **upscaling**. 
@@ -73,12 +72,8 @@ The proposed method is employed to study plasticity in a **Cu/Zr metallic glass*
 </div>
 
 ### Info
-**Journal publication**: [_Acta Materialia_](https://www.sciencedirect.com/science/article/pii/S1359645421003888?dgcid=coauthor).  
-**Co-authors**: [Darius Alix-Williams](https://github.com/dalixwill), [Nicholas M. Boffi](https://nmboffi.github.io/), [Michael L. Falk](https://engineering.jhu.edu/faculty/michael-falk/), [Chris H. Rycroft](https://people.seas.harvard.edu/~chr/), [Michael D. Shields](https://engineering.jhu.edu/faculty/michael-shields/).    
-**HPCC**: MD simulations were conducted using computational resources at the [Maryland Advanced Research Computing Center (MARCC)](https://www.marcc.jhu.edu/).  
-**Funding**: This project has been supported by the [U.S. Department of Energy (DOE)](https://www.energy.gov/) and the [National Science Foundation (NSF)](https://nsf.gov/).
 
-
-### Code  
-**Github repo**: [https://github.com/katiana22/GrassmannianEGO](https://github.com/katiana22/GrassmannianEGO).
-
+|  **Journal publication** |  **Co-authors** | **HPCC**  | **Funding**  |  **Codes** |
+|---|---|---|---|---|
+| [_Acta Materialia_](https://www.sciencedirect.com/science/article/pii/S1359645421003888?dgcid=coauthor)  | [Darius Alix-Williams](https://github.com/dalixwill), [Nicholas M. Boffi](https://nmboffi.github.io/), [Michael L. Falk](https://engineering.jhu.edu/faculty/michael-falk/), [Chris H. Rycroft](https://people.seas.harvard.edu/~chr/), [Michael D. Shields](https://engineering.jhu.edu/faculty/michael-shields/)  | MD simulations were conducted using computational resources at the [Maryland Advanced Research Computing Center (MARCC)](https://www.marcc.jhu.edu/) | This project has been supported by the [U.S. Department of Energy (DOE)](https://www.energy.gov/) and the [National Science Foundation (NSF)](https://nsf.gov/)  |   [Github repo](https://github.com/katiana22/GrassmannianEGO) |
+ 
