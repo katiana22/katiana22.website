@@ -49,13 +49,27 @@ The proposed method is employed to study plasticity in a **Cu/Zr metallic glass*
 </p>  
 
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/research/eff-temp-application.jpg" title="Effective temperature" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/research/shear-strain-application.jpg" title="Shear stress" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Comparison of the evolution of the effective temperature fields (left plot) and shear strain fields (right plot) between the atomistic reference (left column) and optimized PDE (right column)
+</div>
 
-https://user-images.githubusercontent.com/57080132/156954949-97f9f6f8-5719-4bc8-b237-6f483fb3d88c.mp4 
 
-https://user-images.githubusercontent.com/57080132/156954962-070ca211-b3ef-4a1b-b258-057c5a08cec7.mp4
-
-
-
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/research/stress--strain-application.jpg" title="Stress-strain curve" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Comparison of the stress-strain curve between the atomistic reference (MD) and the optimized PDE model (CM)
+</div>
 
 This work is published in [_Acta Materialia_](https://www.sciencedirect.com/science/article/pii/S1359645421003888?dgcid=coauthor).     
 Co-authors: [Darius Alix-Williams](https://github.com/dalixwill), [Nicholas M. Boffi](https://nmboffi.github.io/), [Michael L. Falk](https://engineering.jhu.edu/faculty/michael-falk/), [Chris H. Rycroft](https://people.seas.harvard.edu/~chr/), [Michael D. Shields](https://engineering.jhu.edu/faculty/michael-shields/).
