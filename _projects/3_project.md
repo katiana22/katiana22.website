@@ -18,7 +18,10 @@ Constructing probability densities for **high-dimensional spectroscopic data** i
     The ChemCam instrument on the Mars Curiosity rover. (Credit: NASA)
 </div>
 
-|  **Conference** |  **ArXiv** | **Co-authors**  | **Funding**  |  **Codes** |
-|---|---|---|---|---|
-| [NeurIPS2021 ML4PS workshop](https://ml4physicalsciences.github.io/2021/)  | [arXiv:2108.08709v1](https://arxiv.org/abs/2108.08709) | Natalie Klein, Nishant Panda and Diane Oyen ([Los Alamos National Laboratory](https://www.lanl.gov/)) | This project has been supported by the [U.S. Department of Energy (DOE)](https://www.energy.gov/) |  [Github repo](https://github.com/katiana22/uq4chemcam) |
- 
+:link: **Conference**: [NeurIPS2021 ML4PS workshop](https://ml4physicalsciences.github.io/2021/)  
+:paperclip: **ArXiv**: [arXiv:2108.08709v1](https://arxiv.org/abs/2108.08709)  
+:raised_hands: **Co-authors**: Natalie Klein, Nishant Panda and Diane Oyen ([Los Alamos National Laboratory](https://www.lanl.gov/))  
+:microscope: **Funding**: This project has been supported by the [U.S. Department of Energy (DOE)](https://www.energy.gov/)  
+:point_right: **Codes**: [Github repo](https://github.com/katiana22/uq4chemcam)  
+
+
