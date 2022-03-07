@@ -3,7 +3,7 @@ layout: page
 title: Atomistic-informed PDE calibration
 description: Brief project overview
 img: assets/img/research/manifold_dist.jpg
-importance: 1
+importance: 2
 category: work
 ---
 
