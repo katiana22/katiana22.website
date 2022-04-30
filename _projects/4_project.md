@@ -2,7 +2,7 @@
 layout: page
 title: Transfer learning with DeepONet
 description: Brief project overview
-img: assets/img/research/curiosity.jpg
+img: assets/img/research/TL-framework.jpg
 importance: 3
 category: work
 ---
