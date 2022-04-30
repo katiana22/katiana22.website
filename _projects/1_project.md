@@ -3,7 +3,7 @@ layout: page
 title: Manifold-based surrogates
 description: Brief project overview
 img: assets/img/research/mPCE.jpg
-importance: 1
+importance: 2
 category: work
 ---
 
