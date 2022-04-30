@@ -15,7 +15,7 @@ Constructing probability densities for **high-dimensional spectroscopic data** i
     </div>
 </div>
 <div class="caption">
-    The ChemCam instrument on the Mars Curiosity rover. (Credit: NASA)
+    The ChemCam instrument on the Mars Curiosity rover, Credit: NASA (click to zoom).
 </div>
 
 :link: **Conference**: [NeurIPS2021 ML4PS workshop](https://ml4physicalsciences.github.io/2021/)  
