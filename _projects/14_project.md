@@ -7,13 +7,13 @@ importance: 1
 category: work
 ---
 
-The key idea behind transfer learning is learning machines that leverage knowledge gained from one task to improve accuracy and generalization in another different but related task.
+The key idea behind **transfer learning** is learning machines that leverage knowledge gained from one task to improve accuracy and generalization in another different but related task.
 
 Physics-based systems often require the accurate solution of PDEs that are related but differ in a certain aspect, i.e., there exists a conditional distribution mismatch.
 
-In our latest work, we propose a novel framework which exploits information from pre-trained (source) deep neural operators (DeepONets), for fast and accurate task-specific partial differential equation (PDE) learning (target).
+In our latest work, we propose a novel framework which exploits information from pre-trained (source) **deep neural operators** (DeepONets), for fast and accurate task-specific partial differential equation (PDE) learning (target).
 
-The key ingredient of this approach is the extraction of domain-invariant features, the embedding of conditional distributions on a reproducing kernel Hilbert space (RKHS) and the self-adaptive learning of penalizing parameters which allows adaptation between source and target domains. 
+The key ingredient of this approach is the extraction of **domain-invariant features**, the embedding of conditional distributions on a reproducing kernel Hilbert space (RKHS) and the self-adaptive learning of penalizing parameters which allows adaptation between source and target domains. 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
