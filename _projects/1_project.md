@@ -21,7 +21,7 @@ The key ingredient of this approach is the extraction of **domain-invariant feat
     </div>
 </div>
 <div class="caption">
-    Proposed transfer learning framework with deep operator networks. 
+    Proposed transfer learning framework with deep operator networks (click to zoom). 
 </div>
 
 We apply the proposed TL framework in PDE problems where source and target domains differ in various aspects (e.g., geometry, model parameters) and demonstrate how our approach enables fast and efficient multi-task operator learning.
