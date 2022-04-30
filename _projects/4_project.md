@@ -28,6 +28,6 @@ We apply the proposed TL framework in PDE problems where source and target domai
 
 
 :paperclip: **ArXiv**: [arXiv:2204.09810v1](https://arxiv.org/abs/2204.09810)  
-:raised_hands: **Co-authors**: Somdatta Goswami, Michael D. Shields and George Em Karniadakis 
+:raised_hands: **Co-authors**: Somdatta Goswami, Michael D. Shields and George Em Karniadakis   
 :microscope: **Funding**: This project has been supported by the [U.S. Department of Energy (DOE)](https://www.energy.gov/)  
 
