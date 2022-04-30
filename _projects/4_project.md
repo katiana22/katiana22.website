@@ -17,12 +17,14 @@ The key ingredient of this approach is the extraction of domain-invariant featur
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/research/chemcam.jpg" title="Transfer learning framework" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/research/TL-framework.jpg" title="Transfer learning framework" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
     Proposed transfer learning framework with deep operator networks. 
 </div>
+
+We apply the proposed TL framework in PDE problems where source and target domains differ in various aspects (e.g., geometry, model parameters) and demonstrate how our approach enables fast and efficient multi-task operator learning.
 
 
 :paperclip: **ArXiv**: [arXiv:2204.09810v1](https://arxiv.org/abs/2204.09810)  
