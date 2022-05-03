@@ -6,7 +6,7 @@ description: Contact information.
 nav: true
 ---
 
-Address:   
+📍 Address:   
 Latrobe Hall 303  
 3400 North Charles St.  
 Baltimore, MD 21218, USA  
