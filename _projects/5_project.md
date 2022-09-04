@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Greece
-description: Photos from different places in Greece
+description: Photos from different places in Greece.
 img: assets/img/greece/img1.jpg
 importance: 3
 category: fun
