@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Greece
-description: Photos from different places in Greece
-img: assets/img/greece/img1.jpg
+title: Johns Hopkins
+description: Collection of Johns Hopkins University campus photos
+img: assets/img/jhu-campus/jhu1.jpg
 importance: 3
 category: fun
 ---
