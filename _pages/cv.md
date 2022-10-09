@@ -6,4 +6,7 @@ description:
 nav: true
 ---
 
-Find my updated CV <a href="https://katiana22.github.io/Katiana_Kontolati_Curriculum_Vitae.pdf" target="_blank">here.</a>
+Find my updated CV here:
+
+<embed src="https://katiana22.github.io/Katiana_Kontolati_Curriculum_Vitae.pdf" width="1000px" />
+
