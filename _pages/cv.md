@@ -3,8 +3,6 @@ layout: page
 permalink: /cv/
 title: cv
 description: 
-nav: true
+cv_pdf: Katiana_Kontolati_Curriculum_Vitae.pdf
 ---
-
-Find my updated CV [here](https://github.com/katiana22/Katiana_Kontolati_Curriculum_Vitae.pdf).
 
