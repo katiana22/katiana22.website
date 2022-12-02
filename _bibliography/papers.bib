@@ -5,15 +5,16 @@
 
 @article{goswami2022deep,
   bibtex_show={true},
-  abstract={Traditional machine learning algorithms are designed to learn in isolation, i.e. address single tasks. The core idea of transfer learning (TL) is that knowledge gained in learning to perform one task (source) can be leveraged to improve learning performance in a related, but different, task (target). TL leverages and transfers previously acquired knowledge to address the expense of data acquisition and labeling, potential computational power limitations, and the dataset distribution mismatches. Although significant progress has been made in the fields of image processing, speech recognition, and natural language processing (for classification and regression) for TL, little work has been done in the field of scientific machine learning for functional regression and uncertainty quantification in partial differential equations. In this work, we propose a novel TL framework for task-specific learning under conditional shift with a deep operator network (DeepONet). Inspired by the conditional embedding operator theory, we measure the statistical distance between the source domain and the target feature domain by embedding conditional distributions onto a reproducing kernel Hilbert space. Task-specific operator learning is accomplished by fine-tuning task-specific layers of the target DeepONet using a hybrid loss function that allows for the matching of individual target samples while also preserving the global properties of the conditional distribution of target data. We demonstrate the advantages of our approach for various TL scenarios involving nonlinear PDEs under conditional shift. Our results include geometry domain adaptation and show that the proposed TL framework enables fast and efficient multi-task operator learning, despite significant differences between the source and target domains.},
-  abbr={arXiv},
+  abstract={Transfer learning enables the transfer of knowledge gained while learning to perform one task (source) to a related but different task (target), hence addressing the expense of data acquisition and labelling, potential computational power limitations and dataset distribution mismatches. We propose a new transfer learning framework for task-specific learning (functional regression in partial differential equations) under conditional shift based on the deep operator network (DeepONet). Task-specific operator learning is accomplished by fine-tuning task-specific layers of the target DeepONet using a hybrid loss function that allows for the matching of individual target samples while also preserving the global properties of the conditional distribution of the target data. Inspired by conditional embedding operator theory, we minimize the statistical distance between labelled target data and the surrogate prediction on unlabelled target data by embedding conditional distributions onto a reproducing kernel Hilbert space. We demonstrate the advantages of our approach for various transfer learning scenarios involving nonlinear partial differential equations under diverse conditions due to shifts in the geometric domain and model dynamics. Our transfer learning framework enables fast and efficient learning of heterogeneous tasks despite considerable differences between the source and target domains.}
+  abbr={NMI},
   title={Deep transfer learning for partial differential equations under conditional shift with DeepONet},
   author={Goswami, Somdatta and Kontolati, Katiana and Shields, Michael D and Karniadakis, George Em},
-  journal={arXiv preprint arXiv:2204.09810},
+  journal={Nature Machine Intelligence},
   year={2022},
-  doi={10.48550/arXiv.2204.09810},
-  url={https://doi.org/10.48550/arXiv.2204.09810},
+  doi={10.1038/s42256-022-00569-2},
+  url={https://www.nature.com/articles/s42256-022-00569-2},
   arxiv={2204.09810},
+  code={https://github.com/katiana22/TL-DeepONet},
   selected={true}
 }
 
