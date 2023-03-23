@@ -6,7 +6,7 @@ subtitle: Ph.D. candidate @ Johns Hopkins University
 
 profile:
   align: right
-  image: profile.png
+  image: headshot1.JPG
   address: >
     <p>Latrobe Hall 303</p>
     <p>3400 N Charles St</p>
