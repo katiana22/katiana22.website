@@ -7,7 +7,7 @@ nav: true
 ---
 
 📍 Address:   
-800 N Lindbergh Blvd
+800 N Lindbergh Blvd  
 Creve Coeur, MO 63141 USA  
 
 Email: [katiana.kontolati@gmail.com](mailto:katiana.kontolati@gmail.com)
