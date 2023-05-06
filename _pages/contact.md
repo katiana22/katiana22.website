@@ -7,10 +7,9 @@ nav: true
 ---
 
 📍 Address:   
-Latrobe Hall 303  
-3400 North Charles St.  
-Baltimore, MD 21218, USA  
+800 N Lindbergh Blvd
+Creve Coeur, MO 63141 USA  
 
-Email: [kontolati@jhu.edu](mailto:kontolati@jhu.edu)
+Email: [katiana.kontolati@gmail.com](mailto:katiana.kontolati@gmail.com)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3086.2586505452177!2d-76.62297054857589!3d39.32772502896676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c804dfa65e2a7b%3A0xee939e37a1db3fb3!2sLatrobe%20Hall%2C%20Baltimore%2C%20MD%2021218!5e0!3m2!1sen!2sus!4v1646331870488!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d543020.6246529907!2d-89.77855121832339!3d38.832347114640235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87d8b3a62127db11%3A0xdc5adf0a40a17d5c!2sBayer%20Crop%20Science%20Corporate%20Headquarters!5e0!3m2!1sen!2sus!4v1683414198029!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
